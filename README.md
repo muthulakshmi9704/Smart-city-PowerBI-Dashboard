@@ -48,7 +48,7 @@ This project provides an interactive analytics dashboard that transforms raw sma
 ## Dashboard Preview
 
 ### Dashboard Page 1
-![Smart City Dashboard Page 1](Dashboard_Page1.png)
+![Smart City Dashboard Page 1](Dashboard_page1.png)
 
 ### Dashboard Page 2
-![Smart City Dashboard Page 2](Dashboard_Page2.png)
+![Smart City Dashboard Page 2](Dashboard_page2.png)
